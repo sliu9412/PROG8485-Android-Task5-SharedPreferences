@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SiyuTask5</string>
+    <string name="app_title">SiyuTask5</string>
+    <string name="btn_submit">Submit</string>
+    <string name="product_code_hint">Product Code</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="product_price_hint">Product Price</string>
+    <string name="product_details">Product Details</string>
+</resources>
